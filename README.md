@@ -6,7 +6,7 @@ Installation after a fresh install of Rasbian Jessie Lite:
 ```
 sudo apt-get install git
 git clone https://github.com/fbiego/curiosity
-cd rogue-captive
+cd curiosity
 chmod +x install.sh
 sudo ./install.sh
 sudo reboot
